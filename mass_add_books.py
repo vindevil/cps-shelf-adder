@@ -4,10 +4,10 @@ import re
 import sys
 
 username = 'admin'
-password = ''
+password = 'tW33q*Gk'
 shelf_id = '1'
 booklist = 'booklist.csv'
-serveradress = 'http://127.0.0.1:8083'
+serveradress = 'http://192.168.123.4:8083'
 
 error=False
 if shelf_id.isdigit():
